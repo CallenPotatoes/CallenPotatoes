@@ -1,8 +1,8 @@
 Hello!
 
 I am a self-taught programmer who programs many things.
-
-**__✨ Currently able to code ✨__**
+***
+✨ Currently able to code ✨
 Hypertext Markup Language
 Cascading Style Sheets
 JavaScript
