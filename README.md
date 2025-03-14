@@ -1,7 +1,7 @@
 Hello!
 
 I am a self-taught programmer who programs many things.
-***
+<div style="width: 100%; height: 5px; background-color: #3498db;"></div>
 ✨ Currently able to code ✨
 Hypertext Markup Language
 Cascading Style Sheets
