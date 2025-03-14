@@ -2,7 +2,7 @@ Hello!
 
 I am a self-taught programmer who programs many things.
 
-✨ Currently able to code ✨
+**__✨ Currently able to code ✨__**
 Hypertext Markup Language
 Cascading Style Sheets
 JavaScript
